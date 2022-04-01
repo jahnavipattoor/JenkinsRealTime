@@ -35,7 +35,7 @@ public class TC001_CreateLead extends TestNgHooks{
 		.typeFirstName(firstName)
 		.typeLastName(lastName)
 		.clickCreateLead()
-		.verifyTitle(); //Verifying Title
+		.verifyTitle(); 
 	}
 	
 	

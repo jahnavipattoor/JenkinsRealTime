@@ -6,7 +6,7 @@
 	</listeners>
 	<test thread-count="5" name="Test">
 		<classes>
-			<class name="tests.TC002_EditLead" />
+			<class name="tests.TC002_EditLead" /> //Including Edit Lead Testcase
 		</classes>
 	</test> <!-- Test -->
 </suite> <!-- Suite -->
